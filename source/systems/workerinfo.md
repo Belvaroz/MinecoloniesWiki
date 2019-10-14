@@ -91,7 +91,7 @@ Choose a worker to view more information about them:
 | [Deliveryman](../workers/deliveryman)    | Intelligence & Endurance |
 | [Farmer](../workers/farmer)              | Endurance & Charisma     |
 | [Fisherman](../workers/fisherman)        | Intelligence & Dexterity |
-| [Guard](../workers/guard)                | Intelligence & Strength  |
+| [Guard](../workers/guard)                | Strength & Endurance  |
 | [Lumberjack](../workers/lumberjack)      | Strength & Charisma      |
 | [Miner](../workers/miner)                | Strength & Endurance     |
 | [Miller](../workers/miller)              | Intelligence & Endurance |
